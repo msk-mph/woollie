@@ -1,0 +1,6 @@
+{
+    "description": "Template used by PubMedQA",
+    "prompt_input": "The following are multiple choice questions about medical knowledge.\nAnswer the following question given the context: \n\n### Question:\n{instruction}\n\n### Context:\n{input}\n\n### Answer:\n",
+    "prompt_no_input": "The following are multiple choice questions about medical knowledge.\nAnswer the following question given the context: \n\n### Question:\n{instruction}\n\n### Answer:\n",
+    "response_split": "### Answer:"
+}

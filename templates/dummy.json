@@ -1,0 +1,6 @@
+{
+    "description": "Template used by any prompt",
+    "prompt_input": "The following is a conversation between a human and an AI assistant.Human statements start with [|Human|] and AI assistant statements start with [|AI|].\n[|Human|] {instruction}\n{input}\n[|AI|] ",
+    "prompt_no_input": "The following is a conversation between a human and an AI assistant.Human statements start with [|Human|] and AI assistant statements start with [|AI|].\n[|Human|] {instruction}\n[|AI|] ",
+    "response_split": "[|AI|]"
+}
